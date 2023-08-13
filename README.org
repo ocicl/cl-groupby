@@ -5,5 +5,5 @@ Short implementation of Scalas groupBy functionality for Common Lisp.
 |---------+--------------------------------------------|
 | source  | git:https://github.com/wlbr/cl-groupby.git |
 | commit  | d7d6403                                    |
-| systems | (groupby)                                  |
+| systems | groupby                                    |
 |---------+--------------------------------------------|
